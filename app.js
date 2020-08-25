@@ -17,7 +17,7 @@ const pantalla = `
                         =====================
                         Elige una opcion:\n
                         1 Crear nuevo documento
-                        2Abrir documento
+                        2 Abrir documento
                         3 Cerrar editor\n>
 `;
 
