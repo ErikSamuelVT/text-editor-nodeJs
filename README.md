@@ -1,2 +1,2 @@
 # Text Edito with NodeJs
-![Screenshot](/../text-editor-nodeJs/Images/Screenshot.png?raw=true "Text Editor")
+![Screenshot](/../text-editor-nodeJs/Images/Screenshot.png "Text Editor")
