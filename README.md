@@ -1,3 +1,3 @@
 # Text Edito with NodeJs
 ![Screenshot]
-(https://raw.githubusercontent.com/parzibyte/ErikVillarreal-bit/master/Images/Screenshot.png)
+(https://raw.githubusercontent.com/ErikVillarreal-bit/text-editor-nodeJs/master/Images/Screenshot.png)
