@@ -10,11 +10,9 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en tu máquin
 
 _Herramientas que necesitas para probar el proyecto._
 
-```
-Saber manejar un poco la terminal.
-VSCode: https://code.visualstudio.com/download - Descarga desde aquí!
-Node:   https://nodejs.org/es/download/ - Descarga desde aquí!
-```
+* Saber manejar un poco la terminal.
+* [VSCode](https://code.visualstudio.com/download) - Descarga desde aquí!
+* [Node](https://nodejs.org/es/download/) - Descarga desde aquí!
 
 ### Instalación 🔧
 
